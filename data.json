@@ -1,4 +1,4 @@
-let data = [
+[
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
     "status": "<div class='created'>СОЗДАН</div>",
