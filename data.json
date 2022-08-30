@@ -48,7 +48,7 @@
     "date": "25.06.2022"
   },
   {
-    "checkbox": "<input type='checkbox' name='header-checkbox'">",
+    "checkbox": "<input type='checkbox' name='header-checkbox'>",
     "status": "<div class='sent'>ОТПРАВЛЕН</div>",
     "code": "4610080723810",
     "name": "Влажные салфетки Самокат детски...",
