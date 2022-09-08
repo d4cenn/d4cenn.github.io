@@ -2,6 +2,7 @@
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
     "status": "<div class='created'>СОЗДАН</div>",
+    "statusValue": "created",
     "code": "4610030881935",
     "name": "Лакомство Nordic Deer для собак, г...",
     "category": "Продукция для животный",
@@ -14,6 +15,7 @@
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
     "status": "<div class='created'>СОЗДАН</div>",
+    "statusValue": "created",
     "code": "4601296005418",
     "name": "Колбаса варёная Останкино доктор...",
     "category": "Мясная гастрономия. Колба...",
@@ -26,6 +28,7 @@
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
     "status": "<div class='created'>СОЗДАН</div>",
+    "statusValue": "created",
     "code": "2632582004505",
     "name": "Жидкость для стирки Frosch для цв...",
     "category": "Бытовая химия. Средства дл...",
@@ -38,6 +41,7 @@
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
     "status": "<div class='sent'>ОТПРАВЛЕН</div>",
+    "statusValue": "sent",
     "code": "2115372000000",
     "name": "Тушка цыпленка-бройлера Пестреч...",
     "category": "Птица. Мясо птицы охлажде...",
@@ -50,6 +54,7 @@
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
     "status": "<div class='sent'>ОТПРАВЛЕН</div>",
+    "statusValue": "sent",
     "code": "4610080723810",
     "name": "Влажные салфетки Самокат детски...",
     "category": "Гигиена. Детская гигиена",
@@ -62,6 +67,7 @@
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
     "status": "<div class='active'>АКТИВЕН</div>",
+    "statusValue": "active",
     "code": "9771560252000",
     "name": "Журнал GQ Россия №11, 2021 год",
     "category": "Промышленные товары. Печ...",
