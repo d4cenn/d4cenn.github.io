@@ -1,7 +1,7 @@
 [
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
-    "status": "<div class='created'>СОЗДАН</div>",
+    "status": "СОЗДАН",
     "statusValue": "created",
     "code": "4610030881935",
     "name": "Лакомство Nordic Deer для собак, г...",
@@ -10,11 +10,12 @@
     "guid": "10ead902-b0fa-11ec-8856-08c0eb32014b",
     "plu": "-",
     "employee": "Сухоставская А.",
-    "date": "27.06.2022"
+    "date": "27.06.2022",
+    "link": "/product/:10ead902-b0fa-11ec-8856-08c0eb32014b"
   },
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
-    "status": "<div class='created'>СОЗДАН</div>",
+    "status": "СОЗДАН",
     "statusValue": "created",
     "code": "4601296005418",
     "name": "Колбаса варёная Останкино доктор...",
@@ -23,11 +24,12 @@
     "guid": "992da377-331c-11ec-a0ee-ec0d9a21b021",
     "plu": "-",
     "employee": "Бокова Е.",
-    "date": "26.06.2022"
+    "date": "26.06.2022",
+    "link": "/product/:992da377-331c-11ec-a0ee-ec0d9a21b021"
   },
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
-    "status": "<div class='created'>СОЗДАН</div>",
+    "status": "СОЗДАН",
     "statusValue": "created",
     "code": "2632582004505",
     "name": "Жидкость для стирки Frosch для цв...",
@@ -36,24 +38,26 @@
     "guid": "6113452b-324a-11ec-85ad-1c34dae33151",
     "plu": "-",
     "employee": "Сульникова Т.",
-    "date": "25.06.2022"
+    "date": "25.06.2022",
+    "link": "/product/:6113452b-324a-11ec-85ad-1c34dae33151"
   },
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
-    "status": "<div class='sent'>ОТПРАВЛЕН</div>",
+    "status": "ОТПРАВЛЕН",
     "statusValue": "sent",
     "code": "2115372000000",
     "name": "Тушка цыпленка-бройлера Пестреч...",
     "category": "Птица. Мясо птицы охлажде...",
     "brand": "ООО «ПЕСТРЕЧИ...",
-    "guid": "10ead902-b0fa-11ec-8856-08c0eb32014b",
+    "guid": "55ggh973-b0fa-11ec-8856-08c0eb32014b",
     "plu": "2001311",
     "employee": "Кишкевич И.",
-    "date": "25.06.2022"
+    "date": "25.06.2022",
+    "link": "/product/:55ggh973-b0fa-11ec-8856-08c0eb32014b"
   },
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
-    "status": "<div class='sent'>ОТПРАВЛЕН</div>",
+    "status": "ОТПРАВЛЕН",
     "statusValue": "sent",
     "code": "4610080723810",
     "name": "Влажные салфетки Самокат детски...",
@@ -62,11 +66,12 @@
     "guid": "2b7e71c8-205b-11ec-a0ee-ec0d9a21b021",
     "plu": "-",
     "employee": "Зюзин М.",
-    "date": "13.06.2022"
+    "date": "13.06.2022",
+    "link": "/product/:2b7e71c8-205b-11ec-a0ee-ec0d9a21b021"
   },
   {
     "checkbox": "<input type='checkbox' name='header-checkbox'>",
-    "status": "<div class='active'>АКТИВЕН</div>",
+    "status": "АКТИВЕН",
     "statusValue": "active",
     "code": "9771560252000",
     "name": "Журнал GQ Россия №11, 2021 год",
@@ -75,6 +80,7 @@
     "guid": "1ef478a2-324c-11ec-85ad-1c34dae33151",
     "plu": "-",
     "employee": "Ляпунова Е.",
-    "date": "15.06.2022"
+    "date": "15.06.2022",
+    "link": "/product/:1ef478a2-324c-11ec-85ad-1c34dae33151"
   }
 ]
